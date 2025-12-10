@@ -1,0 +1,9 @@
+tensorflow
+numpy 
+scipy 
+mne 
+scikit-learn 
+matplotlib 
+seaborn 
+streamlit 
+glob2
